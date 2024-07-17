@@ -5,7 +5,7 @@ loans:
   message: "Welcome to EazyBank lonas related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@eazybank.com"
+    email: "{cipher}64d5e5e6e67ee35ddd37d7aa3719c70302bce04688690ff1c08f9dc1746c12f7b89bcd8b8b5b65d2548c407c773b99fa"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
