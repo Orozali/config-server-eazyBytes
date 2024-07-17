@@ -1,7 +1,7 @@
 build:
   version: "Loans 1.0"
 
-accounts:
+loans:
   message: "Welcome to EasyBank loans related local APIs "
   contactDetails:
     name: "John Doe - Developer"
