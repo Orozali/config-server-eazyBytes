@@ -2,7 +2,7 @@ build:
   version: "Accounts 1.0"
 
 accounts:
-  message: "Welcome to EasyBank accounts related local APIs "
+  message: "Welcome to EasyBank accounts related orozali APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
